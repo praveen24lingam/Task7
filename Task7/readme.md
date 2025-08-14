@@ -1,5 +1,5 @@
 Premium User Data Fetcher
-https://via.placeholder.com/800x500/4361ee/ffffff?text=Premium+User+Data+Fetcher+UI
+
 
 A visually stunning web application that fetches and displays user data from public APIs with beautiful animations and a modern UI design.
 ![Task7 Screenshot](Task7.png)
@@ -38,9 +38,7 @@ Google Fonts
 Installation
 Clone the repository:
 
-bash
-git clone https://github.com/your-username/user-data-fetcher.git
-Open index.html in your browser
+
 
 Usage
 Click "Fetch User Data" to retrieve real user information
@@ -59,7 +57,8 @@ Uses Random User Generator API
 Endpoint:
 
 text
-https://randomuser.me/api/?results=12
+
 License
 This project is licensed under the MIT License.
+
 
